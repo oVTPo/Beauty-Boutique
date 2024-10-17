@@ -1,0 +1,24 @@
+{
+  "cSpell.words": [
+    "APIKEY",
+    "Auths",
+    "Firestore",
+    "imgs",
+    "Italianno",
+    "middlewares",
+    "quanlybaiviet",
+    "quanlysanpham",
+    "reduxjs",
+    "signin",
+    "signout",
+    "signup",
+    "tailwindcss",
+    "TINYMCE",
+    "toastify",
+    "trangchu"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "commentTranslate.targetLanguage": "vi",
+  "commentTranslate.multiLineMerge": false
+}
