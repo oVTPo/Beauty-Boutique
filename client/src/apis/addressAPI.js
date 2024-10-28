@@ -1,5 +1,7 @@
 import axios from "axios";
 
+const API_URL = "https://server-still-cloud-6652.fly.dev/users";
+
 export const getCities = async () => {
   try {
     const config = {

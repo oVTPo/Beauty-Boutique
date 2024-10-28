@@ -1,5 +1,5 @@
 import axios from "axios";
-
+const API_URL = "https://server-still-cloud-6652.fly.dev/users";
 // Get all products
 export const getAllProduct = async () => {
   try {
