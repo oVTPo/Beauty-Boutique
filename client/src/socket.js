@@ -1,3 +1,6 @@
-import { io } from "socket.io-client";
+import io from 'socket.io-client';
 
-export const socket = io("http://localhost:3001");
+// Thay thế 'http://localhost:3001' bằng URL server trên Fly.io
+const socket = io("https://server-still-cloud-6652.fly.dev", {
+  transports: ['websocket'], // Sử dụng WebSocket để kết nối
+});
